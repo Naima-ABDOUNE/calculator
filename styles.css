@@ -1,0 +1,58 @@
+body {
+    background-color: #f0f0f0; 
+}
+
+.calc {
+    margin: auto;
+    background-color: #333; 
+    border: 2px solid #fff; 
+    width: 300px; 
+    height: 480px; 
+    border-radius: 20px; 
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5); 
+}
+
+
+/*  champ de saisie  */
+.maininput {
+    background-color: #222; 
+    border: 1px solid #444; 
+    height: 80px; 
+    font-size: 36px; 
+    color: #fff; 
+    font-weight: bold; 
+}
+
+.numbtn, .calbtn, .c, .equal {
+    padding: 15px 20px; 
+    border-radius: 10px; 
+    font-weight: bold;
+    font-size: 24px; 
+    margin: 5px; 
+}
+
+.numbtn, .calbtn {
+    background-color: #666; 
+    color: #fff; 
+}
+
+.numbtn:hover, .calbtn:hover {
+    background-color: #555; 
+}
+
+.c {
+    background-color: #d9534f; 
+    color: #fff; 
+}
+
+.c:hover {
+    background-color: #c9302c; 
+}
+
+.equal {
+    background-color: #5bc0de; 
+    color: #fff; 
+
+.equal:hover {
+    background-color: #46b8da; 
+}}
